@@ -13,3 +13,9 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
+
+## <!-- Discord -->
+
+<p align="center">
+  <a href="https://discord.com/users/405498757321326592" target="_blank"><img src="https://lanyard.cnrad.dev/api/405498757321326592?hideDiscrim=true&idleMessage=If%20there%20is%20a%20way%20to%20defend%20a%20castle%2C%20there%20is%20a%20way%20to%20bring%20it%20down" /></a>
+</p>
