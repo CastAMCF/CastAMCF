@@ -1,21 +1,44 @@
-<div align="center">
-  <a href="https://github.com/CastAMCF">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CastAMCF&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CastAMCF&layout=compact&langs_count=7&theme=react&hide_border=true&bg_color=0D1117"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <!--<img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
+# Hey there 👋
 
-## <!-- Discord -->
+I like experimenting with software, understanding how things work and building small tools around problems I find interesting.
+
+### Tech
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
+![C%23](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=dotnet)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![Kotlin](https://img.shields.io/badge/Kotlin-111111?style=for-the-badge&logo=kotlin)
+![React](https://img.shields.io/badge/React-111111.svg?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-111111.svg?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/HTML-111111.svg?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-111111.svg?style=for-the-badge&logo=tailwind-css)
+![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash)
+
+`Linux` · `Networking` · `Cybersecurity` · `Reverse Engineering` · `Virtualization`
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032)
+![Ghidra](https://img.shields.io/badge/Ghidra-111111?style=flat-square&logo=ghidra)
+![Frida](https://img.shields.io/badge/Frida-111111?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE4LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjQxLjMgMCAzNC43IDM5IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyMDQuNCAzOSIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxnPgoJPHBhdGggZmlsbD0iI0VGNjQ1NiIgZD0iTTUxLjQsMzlINDEuM2w4LjQtMTIuOWMtNC44LTIuMy03LjQtNi41LTcuNC0xMi42QzQyLjMsNC44LDQ4LjIsMCw1OC41LDBINzZ2MzloLTlWMjhoLTguNWgtMC44TDUxLjQsMzl6CgkJIE02NywyMFY3aC04LjVjLTQuOSwwLTcuNywyLTcuNyw2LjRjMCw0LjUsMi44LDYuNiw3LjcsNi42SDY3eiIvPgo8L2c+Cjwvc3ZnPgo%3D)
+![Wireshark](https://img.shields.io/badge/Wireshark-111111?style=flat-square&logo=wireshark&logoColor=1679A7)
+![Nmap](https://img.shields.io/badge/Nmap-111111?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI%2BCiAgICA8cGF0aCBmaWxsPSIjNEZBM0QxIiBkPSJNNDUwLjM5MiAyNjguMjE2YzIuMTI4IDEuNDc1IDQuMTc4IDIuMyA2LjQ4NCAzLjU1NGMxLjg3IDEuMDE3IDMuNzczIDEuOTcgNS42NDkgMi45NzNjMS40NjIuNzgxIDQuMTcxIDIuNDI1IDIuNTI5IDQuMzQ1Yy0xLjA2NyAxLjI1MS0zLjY1IDEuMDU1LTUuMTYzIDEuMjY3Yy0yLjM5OS4zMzMtNS4zNDkuMjA2LTcuNzQgMGMtMi45My0uMjU0LTUuOTkyLjQ0LTguOTc0LjQ0Yy0yLjE1MiAwLTQuMzIuMDkzLTYuNDQ5LjA4N2MtLjc2Ny0uMDAyLTEuNzM0LjE3Ni0yLjI1OC0uNWMtLjU0NS0uNzAyLS4xNjMtMS40ODIuMjYzLTIuMDY2Yy41MTEtLjY5Ni45OTItMS42MjUgMS42MDctMi4xNjljLjU1LS40ODQgMS4yNzMtLjgyIDEuODI1LTEuMjQ2YzEuMzQ0LTEuMDM2IDEuODExLTIuMTMyLjYyLTMuNDdjLTEuMTg0LTEuMzMzLTIuMDU0LTIuMjc2LTIuMTE1LTQuMTYyYy0uMDc3LTIuNDA5IDEuNDUzLTIuOTA0IDMuNTAzLTMuNDNjMy4wNy0uNzg3IDIuODEtLjI2IDUuMzgxIDEuMjFjMS4yMzEuNzA1IDQuMjU2IDIuNzYzIDQuODM4IDMuMTY3bS0zOTEuODM4Ljk2NWMtMi4xNjYgMS40MTgtNC4yMzcgMi4xOS02LjU3NiAzLjM4MmMtMS44OTUuOTY4LTMuODIzIDEuODctNS43MjQgMi44MjVjLTEuNDgzLjc0Mi00LjIzNCAyLjMxMy0yLjY0MSA0LjI3N2MxLjAzMyAxLjI3OSAzLjYyIDEuMTUgNS4xMjggMS40MDFjMi4zODguMzk2IDUuMzQuMzQ2IDcuNzM3LjIwNGMyLjkzNS0uMTc5IDUuOTc4LjU5NyA4Ljk1OC42NzNjMi4xNTIuMDU5IDQuMzE2LjIwOCA2LjQ0NS4yNTdjLjc2Ni4wMTggMS43MjguMjIyIDIuMjctLjQ0MWMuNTY0LS42ODYuMjAyLTEuNDc2LS4yMDktMi4wN2MtLjQ5Mi0uNzEtLjk0OS0xLjY1MS0xLjU0OS0yLjIxMWMtLjUzOC0uNS0xLjI1LS44NTMtMS43OTEtMS4yOTNjLTEuMzE3LTEuMDcyLTEuNzU2LTIuMTgtLjUzLTMuNDg2YzEuMjItMS4zMDIgMi4xMTQtMi4yMjEgMi4yMjQtNC4xMDVjLjE0LTIuNDA2LTEuMzAzLTMuMzQzLTMuNDEzLTMuNTIyYy0yLjcxNC0uMjMtMi42MDkuMzI3LTUuMzA0IDEuMzMzYy0xLjMzLjQ5Ni00LjQzMiAyLjM4Ny01LjAyNSAyLjc3Nm00NTEuMDIyIDE3LjAxNGMtMTYuNjgzIDE5LjI0LTQ4LjMyOCA5LjYwNi0xMDAuNTY2IDM0LjU5N2MtNjkuMzI1IDMzLjE2Ny03My44OSA1Mi44OTUtMTUzLjYzNCA1My40NTljLTgyLjQ4OC41ODQtODQuMzY1LTIyLjA2OS0xNTcuNDQ1LTU0LjYzMmMtNTcuNjg2LTI1LjcwMy04OS42MzEtMTQuMTctOTYuNDYtMzQuMzAzYy05LjMwNS0yNi40MzQgMjcuOC01MC44MDUgNDguMDgzLTY1LjA5YzkyLjAyNC02NC44MDIgMTMyLjExLTgyLjI1OSAyMDMuODY5LTgyLjE5MWM3Ny4wMzItNC4zOTcgMTUxLjUyMSA0MC44NTEgMjA3LjE5IDgyLjE5MmMxOS44MjkgMTQuNzI1IDYxLjg5MyA0Mi45MSA0OC45NjMgNjUuOTY4TTI1OC41OTkgMjY5LjY5bC0uMDA4IDE2LjM0N2MxNy4wOTYtMS40OTYgMzAuNzQzLTE1LjMyNSAzMi4zOC0zMi43NjdsLTE2LjM2LjAzMmMtMS4zODQgOC40MzEtNy44NTIgMTUuMDY2LTE2LjAxMiAxNi4zODhtOS40NDItMTYuMzc0bC05LjQzNS4wMThsLS4wMDQgOS44YzQuNjIyLTEuMTY5IDguMjUzLTQuOTY2IDkuNDM5LTkuODE4bS4xLTYuNDE1Yy0xLjA5LTUuMDE0LTQuOC04Ljk1NS05LjUyNy0xMC4xNTVsLS4wMDQgMTAuMTc0em0tNDguMTA1LjA5NWwxNi41MzctLjAzM2MxLjIyMy04LjQ2MiA3LjU1My0xNS4yIDE1LjYzLTE2LjcwOGwuMDA4LTE2Ljc5NWMtMTcuMjM0IDEuNjI4LTMwLjg4IDE1LjgxMy0zMi4xNzUgMzMuNTM2bTMyLjE1MSAxNS45ODlsLjAwNS05LjYzOGwtOC45NzYuMDE4YzEuMTU3IDQuNjY2IDQuNTg0IDguMzI2IDguOTcxIDkuNjJtLTE1LjU0NS05LjYwN2wtMTYuNTYuMDMzYzEuNjg3IDE3LjI4MiAxNS4xNzMgMzAuOTk2IDMyLjA5NCAzMi42MTFsLjAwOC0xNi40MDVjLTcuOTItMS40ODctMTQuMTU5LTguMDAxLTE1LjU0Mi0xNi4yNG0xNS41NTMtNi40NDZsLjAwNS0xMC4wNDZjLTQuNTM0IDEuMzMzLTguMDcgNS4xODItOS4xMTQgMTAuMDY0em0zOC44MDktLjA3N2MtMS4zNjItMTcuNzI4LTE1LjA5MS0zMS44NzctMzIuMzc4LTMzLjQwNmwtLjAwOCAxNi43NGM4LjI1MiAxLjM0NSAxNC43NjggOC4xMjYgMTYuMDQgMTYuNjk5em0tNzEuMzY3IDg2LjA4NGMtMzQuMDg1LTEzLjc1LTU4LjA4My00Ni41NTctNTguMDgzLTg0Ljg1OWMwLTIwLjkyOCA3LjE3Ny00MC4yMSAxOS4yMzQtNTUuNjQ4Yy0yNS4wOTggMTAuNjQ1LTU4LjUyNCAzMC44NTItMTEzLjczNyA2OS4yMTJjLTguNzM4IDYuMDctMzUuMTYyIDEzLjE0LTI4LjkzMSAxOC45OGM0LjY5IDQuMzk5IDI5LjkwNSAxLjE3MyA0OC42NyA3LjAzN2M2Ni45MDIgMjAuOTA3IDk2LjkxNCAzOC4yNDggMTMyLjg0NyA0NS4yNzhNNDQ1LjY2IDI2MS44NmMtNTEuNTA0LTM2Ljk4Ni04Ni43NzYtNTcuOS0xMTUuNTY1LTY5LjI2N2MxMS45ODEgMTUuNDEyIDE5LjEwNCAzNC42MzIgMTkuMTA0IDU1LjQ4N2MwIDM3LjAzMS0yMi40MzYgNjguOTE3LTU0LjcyNyA4My40MmM0My4xNjUtOS45NCA4Ni4xMzctMzIuNzg5IDEyNy4xNDYtNDQuMTMyYzI4LjAxNi03Ljc1MSAzOC45OTUtMS40NjYgNTEuMzEtNy42MjNjNC45NjUtMi40ODMtMjAuMTI4LTEyLjc2LTI3LjI2OC0xNy44ODUiLz4KPC9zdmc%2B)
+![QEMU](https://img.shields.io/badge/QEMU-111111?style=flat-square&logo=qemu&logoColor=FF6600)
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED)
+
+---
 
 <p align="center">
-  <a href="https://discord.com/users/405498757321326592" target="_blank"><img src="https://lanyard.cnrad.dev/api/405498757321326592?hideDiscrim=true&idleMessage=If%20there%20is%20a%20way%20to%20defend%20a%20castle%2C%20there%20is%20a%20way%20to%20bring%20it%20down" /></a>
+  <i>Break things. Understand them. Build them better.</i>
 </p>
+
+<p align="center">
+  <sub>
+    <sup><sup>If there is a way to defend a castle, there is a way to bring it down</sup></sup>
+  </sub>
+</p>
+
+
+
